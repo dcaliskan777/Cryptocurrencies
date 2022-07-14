@@ -6,3 +6,6 @@ The data, you may find it in the link: .......,  will need to be processed to fi
 
 The complete cod eof the work is in the following link:
 
+![crypto_clustering](crypto_clustering.ipynb)
+
+
